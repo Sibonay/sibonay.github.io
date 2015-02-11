@@ -1,0 +1,74 @@
+html {
+	 background:url("me_portrait_sogo.jpg");
+	 -webkit-background-size: cover;
+	 -moz-background-size: cover;
+	 -o-background-size: cover;
+	 background-size: cover;
+}
+
+body {
+	background-color:transparent;
+	text-align: center;
+}
+
+
+#sibonay a:link, a:visited {
+	position: absolute;
+	top: 1%;
+	left: 5%;
+	text-decoration: none;
+	font-family: "Brush Script MT", cursive;
+	font-size: 50px;
+	opacity: 0.88; filter: alpha (opacity=88); 
+}
+
+#menu {
+	position: absolute;
+	top: 0%;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background: white; opacity: 0.5; filter: alpha (opacity=50); 
+	width: 100%; 
+}
+
+#menu ul {
+	list-style: none;
+	margin: 0;
+}
+
+#menu ul li {
+	margin: 0;
+	display: inline;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	padding: 20px;
+}
+
+#menu ul a:link, a:visited {
+	text-decoration: none;
+	color: #C21B22;
+	font-size: 25px;
+}
+
+#menu ul a:hover, a:active {
+	text-decoration: none;
+	color: black;
+}
+
+#greeting {
+	color:white;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	position: absolute;
+	top: 30%;
+	left: 15%;
+
+}
+
+h2 {
+	font-size: 80px;
+	margin-bottom: 0%;
+}
+
+h3 {
+	font-size: 100px;
+	margin-top: 0%;
+}

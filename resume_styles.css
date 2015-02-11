@@ -1,0 +1,97 @@
+html {
+	 background-color: #D1FFF0;
+}
+
+body {
+	color: white;
+}
+
+#sibonay a:link, a:visited {
+	position: absolute;
+	top: 1%;
+	left: 5%;
+	text-decoration: none;
+	font-family: "Brush Script MT", cursive;
+	font-size: 50px;
+	opacity: 0.88; filter: alpha (opacity=88); 
+	color: DimGray;
+}
+
+#sibonay a:hover, a:active {
+	text-decoration: none;
+	color: DarkRed;
+}
+
+#menu {
+	position: absolute;
+	top: 0%;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background: white; opacity: 0.6; filter: alpha (opacity=60); 
+	width: 100%; 
+	text-align: center;
+}
+
+#menu ul {
+	list-style: none;
+	margin: 0;
+}
+
+#menu ul li {
+	margin: 0;
+	display: inline;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	padding: 20px;
+}
+
+#menu ul a:link, a:visited {
+	text-decoration: none;
+	color: DarkSlateGray;
+	font-size: 25px;
+}
+
+#menu ul a:hover, a:active {
+	text-decoration: none;
+	color: DarkRed;
+}
+
+#resume_text {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 12px;
+	padding-top: 10%;
+	padding-left: 20%;
+	color: black;
+	padding-bottom: 5%;
+}
+
+
+.resume_headers {
+	font-size: 20px;
+	text-decoration: underline;
+	margin-bottom: 5px;
+	color: #B32537;
+}
+
+.bold {
+	font-weight: bold;
+	font-size: 14px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+.italics {
+	font-style: italic;
+}
+
+.bullet_points {
+	margin-top: 0px;
+	color: black;
+}
+
+p {
+	margin-top: 2px;
+	margin-bottom: 2px;
+	color: black
+}
+
+

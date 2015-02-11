@@ -1,0 +1,92 @@
+html {
+	 background-color: LightSeaGreen;
+}
+
+body {
+	color: white;
+}
+
+#sibonay a:link, #sibonay a:visited, #sibonay a:active {
+	position: absolute;
+	top: 1%;
+	left: 5%;
+	text-decoration: none;
+	font-family: "Brush Script MT", cursive;
+	font-size: 50px;
+	opacity: 0.88; filter: alpha (opacity=88);
+	text-decoration: none;
+	color: DarkRed;
+}
+
+#sibonay a:hover {
+	text-decoration: none;
+	color: Black;
+}
+
+#menu {
+	position: absolute;
+	top: 0%;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background: white; opacity: 0.6; filter: alpha (opacity=60); 
+	width: 100%; 
+	text-align: center;
+}
+
+#menu ul {
+	list-style: none;
+	margin: 0;
+}
+
+#menu ul li {
+	margin: 0;
+	display: inline;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	padding: 20px;
+}
+
+#menu ul a:link, a:visited {
+	text-decoration: none;
+	color: DarkSlateGray;
+	font-size: 25px;
+}
+
+#menu ul a:hover, a:active {
+	text-decoration: none;
+	color: DarkRed;
+}
+
+img {
+	background-color: white;
+	padding: 5px;
+	position: absolute;
+	top: 160px;
+	left: 7%;
+	max-width: 450px;
+	box-shadow: 6px 6px 12px DarkSlateGray;
+}
+
+#paragraph {
+	position: absolute;
+	padding-left: 45%;
+	top: 100px;
+	padding-right: 7%;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+h1 {
+	font-size: 55px;
+	color: DarkSlateGray;
+	margin-bottom: 0px;
+}
+
+h2 {
+	font-size: 20px;
+	color: #B32537;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+p {
+	font-size: 15px;
+}
