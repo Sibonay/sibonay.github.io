@@ -58,17 +58,19 @@ body {
 	color:white;
 	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 	position: absolute;
-	top: 30%;
+	top: 25%;
 	left: 15%;
 
 }
 
 h2 {
-	font-size: 60px;
+	font-size: 40px;
 	margin-bottom: 0%;
+	padding: 0%;
 }
 
 h3 {
 	font-size: 100px;
 	margin-top: 0%;
+	padding: 0%;
 }
